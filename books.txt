@@ -1,0 +1,13 @@
+1,dsa,harry,study,10,15,5,4.0
+2,mystery island,emma,fiction,7,10,3,5.0
+3,python,john,programming,8,12,4,5.0
+4,space view,alex,science,6,10,4,4.0
+5,algorithms,harry,study,9,14,5,5.0
+6,hidden clues,emma,mystery,5,8,3,4.0
+7,java,john,programming,7,11,4,4.0
+8,machine learning,harry,programming,4,7,3,5.0
+9,galaxy,alex,science,8,12,4,5.0
+10,ancient,ravi,history,11,5,4,5.0
+11,world,ravi,history,6,10,4,4.0
+12,crime files,emma,mystery,5,9,4,5.0
+13,ai,john,study,6,10,4,5.0

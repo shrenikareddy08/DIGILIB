@@ -1,0 +1,10 @@
+21,shrenika,student
+22,shloka,student
+23,anvitha,student
+24,bhargavi,student
+25,siri,student
+26,ram,admin
+27,ravi,admin
+28,sita,admin
+29,arya,admin
+30,lasya,admin
